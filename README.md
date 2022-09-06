@@ -1,2 +1,2 @@
 # vitbrain
-etheum contract analyzer for SWE 
+ethereum contract analyzer for SWE 
